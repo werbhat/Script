@@ -1,4 +1,3 @@
-
 # Remplacez ceci par l'URL de votre webhook Discord
 $webhookUrl = "https://discord.com/api/webhooks/1157740522786533519/GLKqhiaawUlFgVHb_vdIW6tWpOnzRiGdPQqoDbx2gC6-wgbKoiSekkJHhyYLoThWvHQv"
 
